@@ -1,7 +1,7 @@
 # Material-3-Floating-Action-Button-In-Sketchware-Pro
 Material 3 Floating Action, ExtendedFloating Action Button (Fab) In Sketchware Pro
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)  
+[![Watch the video](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Material-3-Floating-Action-Button-In-Sketchware-Pro/refs/heads/main/thumbnail.png)](https://youtu.be/hO3WPxyP14Y)  
 
 This project demonstrates **Material 3 Floating Action Buttons** (FAB) and **Extended Floating Action Buttons** in **Sketchware Pro**.
 
