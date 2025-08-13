@@ -27,5 +27,9 @@ This project demonstrates **Material 3 Floating Action Buttons** (FAB) and **Ext
 - Modify FAB IDs and styles as needed
 
 ## License
-This work is released under the **CC0 1.0 Universal** license — free for personal and commercial use without attribution.
 
+- **Open & Free (No Restrictions):**  
+  This project is released as **CC0 1.0 Universal**. You are free to use, modify, and share it for any purpose, including commercial projects—no attribution required, no restrictions.
+
+- **Third-Party Libraries:**  
+  This project may include third-party libraries. Each library is subject to its own license. Please review their licenses if you plan to use them.
